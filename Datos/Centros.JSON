@@ -1,0 +1,33 @@
+{
+  "centros": [
+    {
+      "ubicacion": {
+        "latitud":  -34.5175, 
+        "longitud": -58.5475
+    },
+       "nombre": "A"
+    },
+    {
+      "ubicacion": {
+        "latitud":  -34.533333, 
+        "longitud": -58.716667
+    },
+    	"nombre": "B"
+    },
+    {
+      "ubicacion": {
+        "latitud": -34.466667,
+        "longitud": -58.766667
+    },
+    	"nombre": "C"
+    },
+    
+    {
+      "ubicacion": {
+        "latitud": -34.500148,
+        "longitud": -58.681064
+      },
+      	 "nombre": "D"
+    }
+  ]
+}
